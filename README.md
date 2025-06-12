@@ -2,7 +2,7 @@
 
 # Welcome 👋
 
- **C/++** Programmer and officially work as a **full-stack developer**.
+ **C/++** Programmer and officially work as a **full-stack developer** and create my own **evil😈** exploits.
 
 
 <img align="right" alt="Enderman" width="180" src="https://github.com/AvonBorn/Profile/blob/9ff2d6ec8dbc3a47a18a7e121330828838a9cf38/enderman.gif" />
